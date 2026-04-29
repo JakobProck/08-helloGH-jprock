@@ -10,7 +10,7 @@ Dieses Projekt dient als Einstieg in die Versionsverwaltung mit Git und GitHub. 
 - GitHub-Workflow (Commit, Push, Pull Request, Merge) anwenden  
 - Erste Erfahrung mit kollaborativer Softwareentwicklung sammeln  
 
-## Workflow (kurz)  
+## Workflow 
 1. Repository erstellen  
 2. Dateien hinzufügen und committen  
 3. Änderungen auf GitHub pushen  
