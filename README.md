@@ -16,3 +16,5 @@ Dieses Projekt dient als Einstieg in die Versionsverwaltung mit Git und GitHub. 
 3. Änderungen auf GitHub pushen  
 4. Branch erstellen und bearbeiten  
 5. Pull Request öffnen und mergen
+
+Änderung auf GH
